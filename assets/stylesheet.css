@@ -13,6 +13,9 @@ body {
 }
 .peach {
 	background-color: #FFDAB9;
+	background-image：url('BG.jpg');
+	background-size:100%;
+	opacity: 0.8;
 
 }
 .peach-after {
